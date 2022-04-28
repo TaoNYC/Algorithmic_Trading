@@ -36,13 +36,13 @@ Alerternatively you can simply just install requirement file included in this fo
 
 ## Usage
 
-Step 1: run App.py
+Step 1: run paper_trading_with_alpaca_api.ipynb
 ```python
-python app.py
+python paper_trading_with_alpaca_api.ipynb
 ```
-Step 2: user is prompted to type in the input file path
+Step 2: use api key and secret key from alpaca to get account info (account cash balance, purchasing power etc)
 
-<img width="514" alt="image" src="https://user-images.githubusercontent.com/99616004/162578671-70b7a4f2-d368-4519-9b09-138052ca5cb1.png">
+<img width="942" alt="image" src="https://user-images.githubusercontent.com/99616004/165792212-b39d47a9-a32b-4b07-bd8b-6218ffd01074.png">
 
 Step 3: user is prompted to type in info such as Cretit Score, income, etc
 
